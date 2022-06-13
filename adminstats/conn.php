@@ -4,9 +4,9 @@
 
 // DB CONNECT INFO
 $db_host = "localhost";
-$db_name = "blog_admin_db";
-$db_user = "root";
-$db_pw = "";
+$db_name = "transformation_blog_admin_db";
+$db_user = "transformation";
+$db_pw = "rosedee2022#";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "page_hits";
